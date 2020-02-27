@@ -1,1 +1,1 @@
-Welcome to project ALONE
+Welcome to project ALONE!
